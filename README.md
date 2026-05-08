@@ -1,8 +1,1 @@
-# 12-Bit Parity Shifter: A digital logic project that calculates even/odd parity for a 12-bit word and performs a logical left shift. 
--
-## Features - 
-**Width:** - 12-bit data input - 
--
-**Logic:** - XOR-based parity generation - 
-
-**Hardware:** - Designed for 74-series TTL logic / Simulated in Logisim -
+A high-performance digital logic module designed to calculate parity bits for a 12-bit input word and execute synchronized data shifting. This project demonstrates core principles of digital design, including XOR-tree optimization and propagation delay management.
